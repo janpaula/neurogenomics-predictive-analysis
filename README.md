@@ -19,4 +19,21 @@ Exploratory bioinformatics project focused on integrating simulated genetic feat
 - Predictive modeling
 
 ## Project Structure
+neurogenomics-predictive-analysis/
+│
+├── data/
+│   └── neuro_sample.csv          # Dataset (simulated)
+│
+├── notebooks/
+│   └── analysis.ipynb            # Exploratory analysis + predictive modeling
+│
+├── scripts/
+│   └── stats.R                   # Statistical analysis in R
+│
+├── requirements.txt              # Python dependencies│
+└── README.md                     # Project documentation
+
+## Motivation
+
+This project reflects my transition into bioinformatics and computational neuroscience, with specific interest in psychiatric genetics, transcriptomics, miRNA biomarkers and gene–environment interactions. The goal is to build practical skills in genomics-oriented data analysis and predictive modeling, simulating workflows commonly used in neuropsychiatric research.
 
