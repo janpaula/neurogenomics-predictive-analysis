@@ -20,20 +20,21 @@ Exploratory bioinformatics project focused on integrating simulated genetic feat
 
 ## Project Structure
 
+```bash
 neurogenomics-predictive-analysis/
-|
-|-- data/
-│   |-- neuro_sample.csv          # Dataset (simulated)
+│
+├── data/
+│   └── neuro_sample.csv        # Dataset (simulated)
 │
 ├── notebooks/
-│   └── analysis.ipynb            # Exploratory analysis + predictive modeling
+│   └── analysis.ipynb         # Exploratory analysis + predictive modeling
 │
 ├── scripts/
-│   └── stats.R                   # Statistical analysis in R
+│   └── stats.R                # Statistical analysis in R
 │
-├── requirements.txt              # Python dependencies│
-└── README.md                     # Project documentation
-
+├── requirements.txt           # Python dependencies
+└── README.md                  # Project documentation
+```
 
 ## Motivation
 
