@@ -19,6 +19,7 @@ Exploratory bioinformatics project focused on integrating simulated genetic feat
 - Predictive modeling
 
 ## Project Structure
+'''
 neurogenomics-predictive-analysis/
 │
 ├── data/
@@ -32,6 +33,7 @@ neurogenomics-predictive-analysis/
 │
 ├── requirements.txt              # Python dependencies│
 └── README.md                     # Project documentation
+'''
 
 ## Motivation
 
