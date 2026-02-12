@@ -1,22 +1,17 @@
-# NeuroGenomics Predictive Analysis
+# Neurogenomics Predictive Analysis
 
-Exploratory bioinformatics project focused on integrating simulated genetic features with phenotype variables to investigate predictive patterns related to neuropsychiatric traits.
+## Overview
+
+This project explores a simulated neurogenomics dataset combining genetic risk scores, miRNA expression, and environmental stress variables to model psychiatric symptom severity.
+
+It reflects my transition into bioinformatics and computational neuroscience, with focus on psychiatric genetics, transcriptomics, and gene–environment interactions.
 
 ## Objectives
 
-- Practice genomics-oriented data analysis  
-- Apply machine learning to phenotype prediction  
-- Simulate workflows commonly used in psychiatric genetics  
-- Explore gene–environment style feature integration  
-
-## Methods
-
-- Python (pandas, numpy, scikit-learn, matplotlib)
-- R (statistical exploration and visualization)
-- Bash (basic workflow automation)
-- Exploratory Data Analysis (EDA)
-- Feature engineering
-- Predictive modeling
+- Perform exploratory data analysis on neurogenomic features  
+- Evaluate correlations between genetic, epigenetic, and environmental variables  
+- Build a preliminary predictive model using Random Forest  
+- Demonstrate an end-to-end bioinformatics workflow using Python and R  
 
 ## Project Structure
 
@@ -36,7 +31,30 @@ neurogenomics-predictive-analysis/
 └── README.md                  # Project documentation
 ```
 
-## Motivation
 
-This project reflects my transition into bioinformatics and computational neuroscience, with specific interest in psychiatric genetics, transcriptomics, miRNA biomarkers and gene–environment interactions. The goal is to build practical skills in genomics-oriented data analysis and predictive modeling, simulating workflows commonly used in neuropsychiatric research.
+## Methods
 
+- Python (pandas, matplotlib, scikit-learn)
+- Random Forest regression
+- Correlation analysis
+- Simulated dataset representing gene scores, miRNA biomarkers, and stress indices
+
+## Results (Preliminary)
+
+- Strong correlations observed between stress index and symptom severity  
+- Gene score and miRNA expression contribute to predictive importance  
+- Random Forest highlights multivariate influence of biological and environmental factors  
+
+## Next Steps
+
+- Implement statistical analysis in R  
+- Expand dataset simulation  
+- Integrate RNA-seq / miRNA-like structures  
+- Add longitudinal modeling  
+- Explore cloud deployment (AWS)
+
+## Author
+
+Jânice Roberta de Paula  
+Bioinformatics & Computational Neuroscience (in transition)  
+GitHub: https://github.com/janpaula
